@@ -14,8 +14,6 @@ Go packages shared across services: errors with stack traces, a JSON response en
 go get github.com/ichaudharyvivek/go-commons@latest
 ```
 
-> The repository needs a `go.mod` in its root (`go mod init github.com/ichaudharyvivek/go-commons`) before it can be fetched this way. Until then, copy the package directories you need into your project and rewrite their `errorsx` import path.
-
 ```go
 import (
 	"github.com/ichaudharyvivek/go-commons/errorsx"

@@ -10,7 +10,7 @@ import (
 	"go.opentelemetry.io/otel/sdk/metric"
 	"go.opentelemetry.io/otel/sdk/resource"
 
-	"go-commons/errorsx"
+	"github.com/ichaudharyvivek/go-commons/errorsx"
 )
 
 // initMeter builds the OTel meter provider, installs it as the global meter.

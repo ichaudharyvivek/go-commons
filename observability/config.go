@@ -3,7 +3,7 @@ package observability
 import (
 	"strings"
 
-	"go-commons/errorsx"
+	"github.com/ichaudharyvivek/go-commons/errorsx"
 )
 
 type Config struct {
