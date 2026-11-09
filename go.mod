@@ -1,4 +1,4 @@
-module go-commons
+module github.com/ichaudharyvivek/go-commons
 
 go 1.27.3
 
