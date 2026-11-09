@@ -9,7 +9,7 @@ import (
 	"go.opentelemetry.io/otel/sdk/resource"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 
-	"rest-w-filter/pkg/errorsx"
+	"go-commons/errorsx"
 )
 
 // Span limits. Bounds on per-span cardinality to protect the pipeline from a

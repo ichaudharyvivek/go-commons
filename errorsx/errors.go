@@ -1,3 +1,6 @@
+// Package errorsx provides drop-in replacements for the standard errors package that capture a stack trace when an error is created.
+//
+// See README.md for the full usage guide.
 package errorsx
 
 import (

@@ -3,7 +3,7 @@ package observability
 import (
 	"strings"
 
-	"rest-w-filter/pkg/errorsx"
+	"go-commons/errorsx"
 )
 
 type Config struct {

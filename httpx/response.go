@@ -1,3 +1,6 @@
+// Package httpx provides a uniform JSON response envelope and an HTTP client that propagates trace context.
+//
+// See README.md for the full usage guide.
 package httpx
 
 import (

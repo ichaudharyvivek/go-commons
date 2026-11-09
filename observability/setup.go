@@ -10,7 +10,7 @@ import (
 	"go.opentelemetry.io/otel/sdk/resource"
 	semconv "go.opentelemetry.io/otel/semconv/v1.34.0"
 
-	"rest-w-filter/pkg/errorsx"
+	"go-commons/errorsx"
 )
 
 // Init validates cfg, wires up logging and optionally, tracing and metrics.
